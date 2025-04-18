@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarini Tanaya Mohapatra</h1>
-<h3 align="center">A machine learning engineer.</h3>
+<h3 align="center">AI/ML Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=human-ai2025&label=Profile%20views&color=0e75b6&style=flat" alt="human-ai2025" /> </p>
 
